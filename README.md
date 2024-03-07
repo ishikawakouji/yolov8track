@@ -20,4 +20,6 @@ YOLO v8 tracking
 
 ## 参考
 
+[マルチオブジェクト・トラッキングUltralytics YOLO](https://docs.ultralytics.com/ja/modes/track/)
 
+[YouTube動画をOpenCVでキャプチャするスクリプト](https://qiita.com/suo-takefumi/items/4c63399e39edecdcf323)
