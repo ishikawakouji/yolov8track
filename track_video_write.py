@@ -6,7 +6,7 @@ from ultralytics import YOLO
 model = YOLO('yolov8n-pose.pt')
 
 # Open youtube
-#video_url = "https://youtu.be/d4kWY_omBp0"
+#video_url = "https://youtu.be/xxxx"
 #video = pafy.new(video_url)
 #best = video.getbest(preftype="mp4")
 
